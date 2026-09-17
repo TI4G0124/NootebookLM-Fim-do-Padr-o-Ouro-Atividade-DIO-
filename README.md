@@ -7,6 +7,7 @@ Este projeto explora o fim do padrão-ouro no contexto do colapso do sistema de 
 O estudo foi desenvolvido no NotebookLM com fontes históricas abertas e institucionais. A proposta foi utilizar a IA como ferramenta de aprendizagem ativa: selecionar fontes confiáveis, formular perguntas estratégicas, comparar respostas, registrar limitações e consolidar o aprendizado em um miniguia reutilizável.
 
 Link do NotebookLM: https://notebook.google.com/notebook/e9ba0c96-015d-45ca-8925-5b8625ed943a
+Fontes: https://www.federalreservehistory.org/essays/bretton-woods-launched , https://history.state.gov/milestones/1969-1976/nixon-shock , https://www.federalreservehistory.org/essays/gold-convertibility-ends
 
 ## Objetivos de Estudo
 
